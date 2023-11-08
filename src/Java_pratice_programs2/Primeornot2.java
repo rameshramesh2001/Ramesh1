@@ -13,6 +13,7 @@ public class Primeornot2 {
 					loop++;
 				}
 				count++;
+				
 			}
 			if(loop==2) {
 				System.out.println("prime: "+arr[i]);
