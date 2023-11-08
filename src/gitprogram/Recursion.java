@@ -1,4 +1,4 @@
-package Java_pratice_programs2;
+package gitprogram;
 
 public class Recursion {
 
